@@ -9,10 +9,15 @@ A stunning particle-based galaxy boot animation with warm cosmic colors.
 ## Features:
 
 -🌟 1500+ particles that swirl and converge
+
 -🔥 Warm color palette (orange, gold, peach - no blue/violet)
+
 -✨ Twinkling star effect with glow
+
 -📊 Animated progress bar
+
 -📱 Responsive design
+
 -🎯 Smooth phase transitions
    
 ## Usage
